@@ -1,0 +1,5 @@
+node_modules/
+.history/
+.env
+guardx-12b2a-firebase-adminsdk-o1i2w-6a904eedcf.json
+Procfile
