@@ -5,7 +5,7 @@ const { OpenAI } = require('openai');
 const dotenv = require('dotenv');
 const { createClient } = require('@supabase/supabase-js');  
 const app = express();
-
+//update(test)
 app.use(cors());
 
 app.use(express.json());
